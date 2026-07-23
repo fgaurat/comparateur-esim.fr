@@ -1,7 +1,31 @@
 {
-  "posts": {},
-  "pages": {},
-  "categories": {},
-  "tags": {},
-  "media": {}
+    "posts": {
+        "esim-canada": 1,
+        "esim-etats-unis": 2,
+        "esim-europe": 3,
+        "esim-japon": 4,
+        "esim-maroc": 5,
+        "esim-suisse": 6,
+        "esim-thailande": 7,
+        "esim-tunisie": 8
+    },
+    "pages": {
+        "about": 1000,
+        "contact": 1001,
+        "destinations": 1002,
+        "fournisseurs": 1003,
+        "guide-esim": 1004,
+        "mentions-legales": 1005,
+        "plan-du-site": 1006,
+        "politique-de-confidentialite": 1007
+    },
+    "categories": {
+        "destination-esim": 2000
+    },
+    "tags": {
+        "esim": 3000,
+        "voyage": 3001,
+        "comparatif": 3002
+    },
+    "media": []
 }
