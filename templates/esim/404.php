@@ -1,0 +1,1 @@
+<?php ob_start(); ?><section class="section"><h1>Page introuvable</h1><p><a class="btn" href="/">Retour au comparateur eSIM</a></p></section><?php $mainContent=ob_get_clean(); require __DIR__ . '/layout.php'; ?>
