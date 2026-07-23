@@ -10,3 +10,11 @@ menu_order: "6"
 ---
 
 Site éditorial comparatif. Les marques citées appartiennent à leurs propriétaires respectifs. Les prix affichés sont indicatifs et peuvent évoluer.
+
+## Pages proches à consulter
+
+- [Plan du site](/plan-du-site/)
+- [Contact](/contact/)
+- [Politique de confidentialité](/politique-de-confidentialite/)
+- [Comparateur eSIM - Accueil](/)
+- [Fournisseurs eSIM comparés](/fournisseurs/)

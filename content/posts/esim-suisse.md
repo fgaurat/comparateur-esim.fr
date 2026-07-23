@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Saily**, mais le prix le
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM Suisse pas cher : meilleurs prix et forfaits économiques](/esim-suisse-pas-cher/)

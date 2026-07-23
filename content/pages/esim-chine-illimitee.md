@@ -36,3 +36,11 @@ Une **eSIM Chine illimitée** est pertinente si vous utilisez beaucoup de data :
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)
+- [eSIM Suisse illimitée : forfaits data illimitée et fair use](/esim-suisse-illimitee/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

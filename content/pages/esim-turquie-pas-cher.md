@@ -39,3 +39,11 @@ Pour trouver une **eSIM Turquie pas cher**, commencez par les petits forfaits 1 
 - [Comparatif eSIM](/comparatif-esim/)
 
 Source utilisée : page publique meilleure-esim.fr pour Turquie, extraction option A. Prix à revérifier avant achat.
+
+## Pages proches à consulter
+
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)
+- [eSIM États-Unis pas cher : meilleurs prix et forfaits économiques](/esim-etats-unis-pas-cher/)
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)
+- [eSIM Chine pas cher : meilleurs prix et forfaits économiques](/esim-chine-pas-cher/)
+- [eSIM Suisse pas cher : meilleurs prix et forfaits économiques](/esim-suisse-pas-cher/)

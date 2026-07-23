@@ -35,3 +35,11 @@ Un forfait **eSIM Maroc 7 jours** convient aux city-trips, vacances d’une sema
 - [eSIM Maroc pas cher](/esim-maroc-pas-cher/)
 - [eSIM Maroc illimitée](/esim-maroc-illimitee/)
 - [eSIM Maroc](/esim-maroc/)
+
+## Pages proches à consulter
+
+- [eSIM Maroc illimitée : forfaits data illimitée et fair use](/esim-maroc-illimitee/)
+- [eSIM Maroc pas cher : meilleurs prix et forfaits économiques](/esim-maroc-pas-cher/)
+- [eSIM Maroc 30 jours : forfaits long séjour](/esim-maroc-30-jours/)
+- [eSIM Émirats arabes unis 7 jours : forfaits pour une semaine](/esim-emirats-arabes-unis-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

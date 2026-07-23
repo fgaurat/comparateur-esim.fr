@@ -37,3 +37,11 @@ Une **eSIM Indonésie 30 jours** est adaptée aux voyages longs, nomades digitau
 - [eSIM Indonésie illimitée](/esim-indonesie-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Indonésie illimitée : forfaits data illimitée et fair use](/esim-indonesie-illimitee/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)

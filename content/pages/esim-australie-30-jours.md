@@ -37,3 +37,11 @@ Une **eSIM Australie 30 jours** est adaptée aux voyages longs, nomades digitaux
 - [eSIM Australie illimitée](/esim-australie-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)

@@ -36,3 +36,11 @@ Un forfait **eSIM Turquie 7 jours** convient aux city-trips, vacances d’une se
 - [eSIM Turquie pas cher](/esim-turquie-pas-cher/)
 - [eSIM Turquie illimitée](/esim-turquie-illimitee/)
 - [eSIM Turquie](/esim-turquie/)
+
+## Pages proches à consulter
+
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)
+- [eSIM Turquie illimitée : forfaits data illimitée et fair use](/esim-turquie-illimitee/)
+- [eSIM Turquie pas cher : meilleurs prix et forfaits économiques](/esim-turquie-pas-cher/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)

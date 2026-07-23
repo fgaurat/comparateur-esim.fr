@@ -14,3 +14,11 @@ menu_order: "8"
 - [Fournisseurs](/fournisseurs/)
 - [Guide eSIM](/guide-esim/)
 - [Sitemap XML](/sitemap.xml)
+
+## Pages proches à consulter
+
+- [Comparateur eSIM - Accueil](/)
+- [Meilleure eSIM : comparatif 2026 des fournisseurs eSIM](/meilleure-esim/)
+- [Mentions légales](/mentions-legales/)
+- [Fournisseurs eSIM comparés](/fournisseurs/)
+- [Toutes les destinations eSIM](/destinations/)

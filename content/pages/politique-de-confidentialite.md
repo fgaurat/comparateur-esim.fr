@@ -10,3 +10,11 @@ menu_order: "7"
 ---
 
 Le site ne nécessite pas de compte utilisateur. Les logs serveur peuvent être utilisés pour la sécurité, le diagnostic technique et la mesure d’audience.
+
+## Pages proches à consulter
+
+- [Plan du site](/plan-du-site/)
+- [Contact](/contact/)
+- [Mentions légales](/mentions-legales/)
+- [Comparateur eSIM - Accueil](/)
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)

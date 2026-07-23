@@ -36,3 +36,11 @@ Une **eSIM États-Unis illimitée** est pertinente si vous utilisez beaucoup de 
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)

@@ -36,3 +36,11 @@ Une **eSIM Australie illimitée** est pertinente si vous utilisez beaucoup de da
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Suisse illimitée : forfaits data illimitée et fair use](/esim-suisse-illimitee/)
+- [eSIM Indonésie illimitée : forfaits data illimitée et fair use](/esim-indonesie-illimitee/)

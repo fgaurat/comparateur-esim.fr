@@ -37,3 +37,11 @@ Une **eSIM Chine 30 jours** est adaptée aux voyages longs, nomades digitaux, ro
 - [eSIM Chine illimitée](/esim-chine-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)

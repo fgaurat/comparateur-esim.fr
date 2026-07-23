@@ -38,3 +38,11 @@ Pour trouver une **eSIM Canada pas cher**, commencez par les petits forfaits 1 G
 - [Comparatif eSIM](/comparatif-esim/)
 
 Source utilisée : page publique meilleure-esim.fr pour Canada, extraction option A. Prix à revérifier avant achat.
+
+## Pages proches à consulter
+
+- [eSIM États-Unis pas cher : meilleurs prix et forfaits économiques](/esim-etats-unis-pas-cher/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)
+- [eSIM Chine pas cher : meilleurs prix et forfaits économiques](/esim-chine-pas-cher/)
+- [eSIM Suisse pas cher : meilleurs prix et forfaits économiques](/esim-suisse-pas-cher/)
+- [eSIM Australie pas cher : meilleurs prix et forfaits économiques](/esim-australie-pas-cher/)

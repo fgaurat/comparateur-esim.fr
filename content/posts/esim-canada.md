@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Saily**, mais le prix le
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)
+- [eSIM Canada pas cher : meilleurs prix et forfaits économiques](/esim-canada-pas-cher/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM Canada 7 jours : forfaits pour une semaine](/esim-canada-7-jours/)

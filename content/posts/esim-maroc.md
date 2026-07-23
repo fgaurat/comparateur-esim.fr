@@ -52,3 +52,10 @@ Le meilleur choix observé pour cette destination est **GigSky**, mais le prix l
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM Maroc pas cher : meilleurs prix et forfaits économiques](/esim-maroc-pas-cher/)
+- [eSIM Maroc illimitée : forfaits data illimitée et fair use](/esim-maroc-illimitee/)
+- [eSIM Maroc 7 jours : forfaits pour une semaine](/esim-maroc-7-jours/)
+- [eSIM Maroc 30 jours : forfaits long séjour](/esim-maroc-30-jours/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)

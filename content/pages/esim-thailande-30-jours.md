@@ -37,3 +37,11 @@ Une **eSIM Thaïlande 30 jours** est adaptée aux voyages longs, nomades digitau
 - [eSIM Thaïlande illimitée](/esim-thailande-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Indonésie 30 jours : forfaits long séjour](/esim-indonesie-30-jours/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)

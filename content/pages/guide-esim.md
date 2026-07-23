@@ -29,3 +29,11 @@ Une eSIM est une SIM numérique installée dans votre téléphone. Pour voyager,
 - Hotspot autorisé ou non.
 - Réseau local utilisé.
 - Durée de validité et date d’activation.
+
+## Pages proches à consulter
+
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
+- [eSIM internationale : guide complet pour rester connecté à l’étranger](/esim-internationale/)
+- [Meilleure eSIM : comparatif 2026 des fournisseurs eSIM](/meilleure-esim/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)

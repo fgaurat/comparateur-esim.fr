@@ -36,3 +36,11 @@ Une **eSIM Indonésie illimitée** est pertinente si vous utilisez beaucoup de d
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Indonésie 30 jours : forfaits long séjour](/esim-indonesie-30-jours/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Indonésie 7 jours : forfaits pour une semaine](/esim-indonesie-7-jours/)

@@ -35,3 +35,11 @@ Un forfait **eSIM Mexique 7 jours** convient aux city-trips, vacances d’une se
 - [eSIM Mexique pas cher](/esim-mexique-pas-cher/)
 - [eSIM Mexique illimitée](/esim-mexique-illimitee/)
 - [eSIM Mexique](/esim-mexique/)
+
+## Pages proches à consulter
+
+- [eSIM Mexique 30 jours : forfaits long séjour](/esim-mexique-30-jours/)
+- [eSIM Mexique pas cher : meilleurs prix et forfaits économiques](/esim-mexique-pas-cher/)
+- [eSIM Mexique illimitée : forfaits data illimitée et fair use](/esim-mexique-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

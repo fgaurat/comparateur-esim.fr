@@ -37,3 +37,11 @@ Une **eSIM Turquie 30 jours** est adaptée aux voyages longs, nomades digitaux, 
 - [eSIM Turquie illimitée](/esim-turquie-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Turquie illimitée : forfaits data illimitée et fair use](/esim-turquie-illimitee/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Turquie 7 jours : forfaits pour une semaine](/esim-turquie-7-jours/)
+- [eSIM Indonésie 30 jours : forfaits long séjour](/esim-indonesie-30-jours/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)

@@ -36,3 +36,11 @@ Une **eSIM Maroc 30 jours** est adaptée aux voyages longs, nomades digitaux, ro
 - [eSIM Maroc illimitée](/esim-maroc-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Maroc illimitée : forfaits data illimitée et fair use](/esim-maroc-illimitee/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)

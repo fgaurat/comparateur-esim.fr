@@ -36,3 +36,11 @@ Une **eSIM Suisse illimitée** est pertinente si vous utilisez beaucoup de data 
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)

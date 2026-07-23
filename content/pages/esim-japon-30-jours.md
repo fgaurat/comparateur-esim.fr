@@ -37,3 +37,11 @@ Une **eSIM Japon 30 jours** est adaptée aux voyages longs, nomades digitaux, ro
 - [eSIM Japon illimitée](/esim-japon-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Japon illimitée : forfaits data illimitée et fair use](/esim-japon-illimitee/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)

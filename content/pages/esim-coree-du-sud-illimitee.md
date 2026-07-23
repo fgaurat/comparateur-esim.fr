@@ -36,3 +36,11 @@ Une **eSIM Corée du Sud illimitée** est pertinente si vous utilisez beaucoup d
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Corée du Sud 30 jours : forfaits long séjour](/esim-coree-du-sud-30-jours/)
+- [eSIM Corée du Sud pas cher : meilleurs prix et forfaits économiques](/esim-coree-du-sud-pas-cher/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM Japon illimitée : forfaits data illimitée et fair use](/esim-japon-illimitee/)
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)

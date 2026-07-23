@@ -36,3 +36,11 @@ Une **eSIM Mexique 30 jours** est adaptée aux voyages longs, nomades digitaux, 
 - [eSIM Mexique illimitée](/esim-mexique-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Mexique illimitée : forfaits data illimitée et fair use](/esim-mexique-illimitee/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Mexique 7 jours : forfaits pour une semaine](/esim-mexique-7-jours/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Mexique pas cher : meilleurs prix et forfaits économiques](/esim-mexique-pas-cher/)

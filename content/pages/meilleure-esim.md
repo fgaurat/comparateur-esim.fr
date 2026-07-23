@@ -52,3 +52,11 @@ La **meilleure eSIM** n'est pas la même pour tous les voyageurs. Elle dépend d
 - [🇨🇳 eSIM Chine pas cher](/esim-chine-pas-cher/) · [illimitée](/esim-chine-illimitee/) · [7 jours](/esim-chine-7-jours/) · [30 jours](/esim-chine-30-jours/)
 - [🇦🇺 eSIM Australie pas cher](/esim-australie-pas-cher/) · [illimitée](/esim-australie-illimitee/) · [7 jours](/esim-australie-7-jours/) · [30 jours](/esim-australie-30-jours/)
 - [🇲🇽 eSIM Mexique pas cher](/esim-mexique-pas-cher/) · [illimitée](/esim-mexique-illimitee/) · [7 jours](/esim-mexique-7-jours/) · [30 jours](/esim-mexique-30-jours/)
+
+## Pages proches à consulter
+
+- [eSIM pas cher : trouver le meilleur prix sans sacrifier la couverture](/esim-pas-cher/)
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
+- [Forfait eSIM voyage : local, régional ou mondial ?](/forfait-esim-voyage/)
+- [Comparatif eSIM : fournisseurs, prix, data et durée](/comparatif-esim/)
+- [Toutes les destinations eSIM](/destinations/)

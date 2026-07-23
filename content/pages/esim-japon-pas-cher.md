@@ -38,3 +38,11 @@ Pour trouver une **eSIM Japon pas cher**, commencez par les petits forfaits 1 Go
 - [Comparatif eSIM](/comparatif-esim/)
 
 Source utilisée : page publique meilleure-esim.fr pour Japon, extraction option A. Prix à revérifier avant achat.
+
+## Pages proches à consulter
+
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)
+- [eSIM Canada pas cher : meilleurs prix et forfaits économiques](/esim-canada-pas-cher/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)
+- [eSIM Chine pas cher : meilleurs prix et forfaits économiques](/esim-chine-pas-cher/)

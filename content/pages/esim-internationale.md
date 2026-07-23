@@ -27,3 +27,10 @@ Une **eSIM internationale** est un profil numérique permettant d'utiliser de la
 - [eSIM compatible iPhone](/esim-iphone/)
 - [eSIM compatible Samsung](/esim-samsung/)
 
+## Pages proches à consulter
+
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
+- [Meilleure eSIM : comparatif 2026 des fournisseurs eSIM](/meilleure-esim/)
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [Guide eSIM voyage : comment choisir sans se tromper](/guide-esim/)
+- [Plan du site](/plan-du-site/)

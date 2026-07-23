@@ -38,3 +38,11 @@ Pour trouver une **eSIM Corée du Sud pas cher**, commencez par les petits forfa
 - [Comparatif eSIM](/comparatif-esim/)
 
 Source utilisée : page publique meilleure-esim.fr pour Corée du Sud, extraction option A. Prix à revérifier avant achat.
+
+## Pages proches à consulter
+
+- [eSIM Corée du Sud illimitée : forfaits data illimitée et fair use](/esim-coree-du-sud-illimitee/)
+- [eSIM Corée du Sud 30 jours : forfaits long séjour](/esim-coree-du-sud-30-jours/)
+- [eSIM Chine pas cher : meilleurs prix et forfaits économiques](/esim-chine-pas-cher/)
+- [eSIM Japon pas cher : meilleurs prix et forfaits économiques](/esim-japon-pas-cher/)
+- [eSIM Corée du Sud 7 jours : forfaits pour une semaine](/esim-coree-du-sud-7-jours/)

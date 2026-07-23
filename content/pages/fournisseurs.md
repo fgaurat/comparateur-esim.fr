@@ -21,3 +21,11 @@ menu_order: "2"
 | Ubigi | Bons volumes 30 jours | Séjours moyens |
 
 Le choix dépend d’abord de la destination et du volume utile, pas uniquement de la marque.
+
+## Pages proches à consulter
+
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)

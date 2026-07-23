@@ -36,3 +36,11 @@ Un forfait **eSIM Suisse 7 jours** convient aux city-trips, vacances d’une sem
 - [eSIM Suisse pas cher](/esim-suisse-pas-cher/)
 - [eSIM Suisse illimitée](/esim-suisse-illimitee/)
 - [eSIM Suisse](/esim-suisse/)
+
+## Pages proches à consulter
+
+- [eSIM Suisse 30 jours : forfaits long séjour](/esim-suisse-30-jours/)
+- [eSIM Suisse illimitée : forfaits data illimitée et fair use](/esim-suisse-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Suisse pas cher : meilleurs prix et forfaits économiques](/esim-suisse-pas-cher/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)

@@ -38,3 +38,11 @@ Pour trouver une **eSIM Mexique pas cher**, commencez par les petits forfaits 1 
 - [Comparatif eSIM](/comparatif-esim/)
 
 Source utilisée : page publique meilleure-esim.fr pour Mexique, extraction option A. Prix à revérifier avant achat.
+
+## Pages proches à consulter
+
+- [eSIM Mexique illimitée : forfaits data illimitée et fair use](/esim-mexique-illimitee/)
+- [eSIM États-Unis pas cher : meilleurs prix et forfaits économiques](/esim-etats-unis-pas-cher/)
+- [eSIM Mexique 30 jours : forfaits long séjour](/esim-mexique-30-jours/)
+- [eSIM Canada pas cher : meilleurs prix et forfaits économiques](/esim-canada-pas-cher/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)

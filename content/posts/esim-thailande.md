@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Airalo**, mais le prix l
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM Thaïlande 30 jours : forfaits long séjour](/esim-thailande-30-jours/)
+- [eSIM Thaïlande pas cher : meilleurs prix et forfaits économiques](/esim-thailande-pas-cher/)
+- [eSIM Thaïlande 7 jours : forfaits pour une semaine](/esim-thailande-7-jours/)

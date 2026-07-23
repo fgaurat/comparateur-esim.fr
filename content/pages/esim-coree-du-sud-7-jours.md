@@ -35,3 +35,11 @@ Un forfait **eSIM Corée du Sud 7 jours** convient aux city-trips, vacances d’
 - [eSIM Corée du Sud pas cher](/esim-coree-du-sud-pas-cher/)
 - [eSIM Corée du Sud illimitée](/esim-coree-du-sud-illimitee/)
 - [eSIM Corée du Sud](/esim-coree-du-sud/)
+
+## Pages proches à consulter
+
+- [eSIM Corée du Sud 30 jours : forfaits long séjour](/esim-coree-du-sud-30-jours/)
+- [eSIM Corée du Sud pas cher : meilleurs prix et forfaits économiques](/esim-coree-du-sud-pas-cher/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)
+- [eSIM Corée du Sud illimitée : forfaits data illimitée et fair use](/esim-coree-du-sud-illimitee/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)

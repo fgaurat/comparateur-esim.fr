@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Saily**, mais le prix le
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM Tunisie pas cher : meilleurs prix et forfaits économiques](/esim-tunisie-pas-cher/)
+- [eSIM Tunisie 30 jours : forfaits long séjour](/esim-tunisie-30-jours/)
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM Tunisie illimitée : forfaits data illimitée et fair use](/esim-tunisie-illimitee/)
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)

@@ -36,3 +36,11 @@ Une **eSIM Mexique illimitée** est pertinente si vous utilisez beaucoup de data
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Mexique 30 jours : forfaits long séjour](/esim-mexique-30-jours/)
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Mexique pas cher : meilleurs prix et forfaits économiques](/esim-mexique-pas-cher/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)

@@ -36,3 +36,11 @@ Une **eSIM Maroc illimitée** est pertinente si vous utilisez beaucoup de data :
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Maroc 30 jours : forfaits long séjour](/esim-maroc-30-jours/)
+- [eSIM Maroc pas cher : meilleurs prix et forfaits économiques](/esim-maroc-pas-cher/)
+- [eSIM Maroc 7 jours : forfaits pour une semaine](/esim-maroc-7-jours/)
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)

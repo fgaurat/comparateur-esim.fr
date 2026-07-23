@@ -36,3 +36,11 @@ Une **eSIM Turquie illimitée** est pertinente si vous utilisez beaucoup de data
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Turquie 7 jours : forfaits pour une semaine](/esim-turquie-7-jours/)
+- [eSIM Indonésie illimitée : forfaits data illimitée et fair use](/esim-indonesie-illimitee/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)

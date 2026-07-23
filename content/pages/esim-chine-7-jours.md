@@ -35,3 +35,11 @@ Un forfait **eSIM Chine 7 jours** convient aux city-trips, vacances d’une sema
 - [eSIM Chine pas cher](/esim-chine-pas-cher/)
 - [eSIM Chine illimitée](/esim-chine-illimitee/)
 - [eSIM Chine](/esim-chine/)
+
+## Pages proches à consulter
+
+- [eSIM Chine pas cher : meilleurs prix et forfaits économiques](/esim-chine-pas-cher/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)

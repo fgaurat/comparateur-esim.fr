@@ -35,3 +35,11 @@ Un forfait **eSIM Canada 7 jours** convient aux city-trips, vacances d’une sem
 - [eSIM Canada pas cher](/esim-canada-pas-cher/)
 - [eSIM Canada illimitée](/esim-canada-illimitee/)
 - [eSIM Canada](/esim-canada/)
+
+## Pages proches à consulter
+
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Canada pas cher : meilleurs prix et forfaits économiques](/esim-canada-pas-cher/)
+- [eSIM Canada illimitée : forfaits data illimitée et fair use](/esim-canada-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

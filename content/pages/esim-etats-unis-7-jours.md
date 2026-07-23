@@ -36,3 +36,11 @@ Un forfait **eSIM États-Unis 7 jours** convient aux city-trips, vacances d’un
 - [eSIM États-Unis pas cher](/esim-etats-unis-pas-cher/)
 - [eSIM États-Unis illimitée](/esim-etats-unis-illimitee/)
 - [eSIM États-Unis](/esim-etats-unis/)
+
+## Pages proches à consulter
+
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM États-Unis pas cher : meilleurs prix et forfaits économiques](/esim-etats-unis-pas-cher/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM États-Unis illimitée : forfaits data illimitée et fair use](/esim-etats-unis-illimitee/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)

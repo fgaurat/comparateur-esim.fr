@@ -36,3 +36,11 @@ Une **eSIM Tunisie 30 jours** est adaptée aux voyages longs, nomades digitaux, 
 - [eSIM Tunisie illimitée](/esim-tunisie-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Maroc 30 jours : forfaits long séjour](/esim-maroc-30-jours/)
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Émirats arabes unis 30 jours : forfaits long séjour](/esim-emirats-arabes-unis-30-jours/)
+- [eSIM Tunisie illimitée : forfaits data illimitée et fair use](/esim-tunisie-illimitee/)

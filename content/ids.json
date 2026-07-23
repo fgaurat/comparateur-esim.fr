@@ -7,7 +7,14 @@
         "esim-maroc": 5,
         "esim-suisse": 6,
         "esim-thailande": 7,
-        "esim-tunisie": 8
+        "esim-tunisie": 8,
+        "esim-australie": 9,
+        "esim-chine": 10,
+        "esim-coree-du-sud": 11,
+        "esim-emirats-arabes-unis": 12,
+        "esim-indonesie": 13,
+        "esim-mexique": 14,
+        "esim-turquie": 15
     },
     "pages": {
         "about": 1000,

@@ -35,3 +35,11 @@ Un forfait **eSIM Australie 7 jours** convient aux city-trips, vacances d’une 
 - [eSIM Australie pas cher](/esim-australie-pas-cher/)
 - [eSIM Australie illimitée](/esim-australie-illimitee/)
 - [eSIM Australie](/esim-australie/)
+
+## Pages proches à consulter
+
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM Australie pas cher : meilleurs prix et forfaits économiques](/esim-australie-pas-cher/)
+- [eSIM Australie illimitée : forfaits data illimitée et fair use](/esim-australie-illimitee/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)

@@ -35,3 +35,11 @@ Un forfait **eSIM Indonésie 7 jours** convient aux city-trips, vacances d’une
 - [eSIM Indonésie pas cher](/esim-indonesie-pas-cher/)
 - [eSIM Indonésie illimitée](/esim-indonesie-illimitee/)
 - [eSIM Indonésie](/esim-indonesie/)
+
+## Pages proches à consulter
+
+- [eSIM Indonésie illimitée : forfaits data illimitée et fair use](/esim-indonesie-illimitee/)
+- [eSIM Indonésie 30 jours : forfaits long séjour](/esim-indonesie-30-jours/)
+- [eSIM Indonésie pas cher : meilleurs prix et forfaits économiques](/esim-indonesie-pas-cher/)
+- [eSIM Thaïlande 7 jours : forfaits pour une semaine](/esim-thailande-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

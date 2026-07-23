@@ -35,3 +35,11 @@ Un forfait **eSIM Émirats arabes unis 7 jours** convient aux city-trips, vacanc
 - [eSIM Émirats arabes unis pas cher](/esim-emirats-arabes-unis-pas-cher/)
 - [eSIM Émirats arabes unis illimitée](/esim-emirats-arabes-unis-illimitee/)
 - [eSIM Émirats arabes unis](/esim-emirats-arabes-unis/)
+
+## Pages proches à consulter
+
+- [eSIM Émirats arabes unis 30 jours : forfaits long séjour](/esim-emirats-arabes-unis-30-jours/)
+- [eSIM Émirats arabes unis pas cher : meilleurs prix et forfaits économiques](/esim-emirats-arabes-unis-pas-cher/)
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

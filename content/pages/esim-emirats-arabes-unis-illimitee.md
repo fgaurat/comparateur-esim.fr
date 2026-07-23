@@ -36,3 +36,11 @@ Une **eSIM Émirats arabes unis illimitée** est pertinente si vous utilisez bea
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Émirats arabes unis 30 jours : forfaits long séjour](/esim-emirats-arabes-unis-30-jours/)
+- [eSIM Émirats arabes unis pas cher : meilleurs prix et forfaits économiques](/esim-emirats-arabes-unis-pas-cher/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)
+- [eSIM Émirats arabes unis 7 jours : forfaits pour une semaine](/esim-emirats-arabes-unis-7-jours/)

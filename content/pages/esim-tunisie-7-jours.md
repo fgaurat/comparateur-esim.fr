@@ -35,3 +35,11 @@ Un forfait **eSIM Tunisie 7 jours** convient aux city-trips, vacances d’une se
 - [eSIM Tunisie pas cher](/esim-tunisie-pas-cher/)
 - [eSIM Tunisie illimitée](/esim-tunisie-illimitee/)
 - [eSIM Tunisie](/esim-tunisie/)
+
+## Pages proches à consulter
+
+- [eSIM Tunisie 30 jours : forfaits long séjour](/esim-tunisie-30-jours/)
+- [eSIM Tunisie illimitée : forfaits data illimitée et fair use](/esim-tunisie-illimitee/)
+- [eSIM Tunisie pas cher : meilleurs prix et forfaits économiques](/esim-tunisie-pas-cher/)
+- [eSIM Émirats arabes unis 7 jours : forfaits pour une semaine](/esim-emirats-arabes-unis-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)

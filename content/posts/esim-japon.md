@@ -52,3 +52,10 @@ Le meilleur choix observé pour cette destination est **GigSky**, mais le prix l
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM Japon pas cher : meilleurs prix et forfaits économiques](/esim-japon-pas-cher/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)
+- [eSIM Japon illimitée : forfaits data illimitée et fair use](/esim-japon-illimitee/)
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)

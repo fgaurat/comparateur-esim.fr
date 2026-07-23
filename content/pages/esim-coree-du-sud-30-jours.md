@@ -37,3 +37,11 @@ Une **eSIM Corée du Sud 30 jours** est adaptée aux voyages longs, nomades digi
 - [eSIM Corée du Sud illimitée](/esim-coree-du-sud-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Corée du Sud illimitée : forfaits data illimitée et fair use](/esim-coree-du-sud-illimitee/)

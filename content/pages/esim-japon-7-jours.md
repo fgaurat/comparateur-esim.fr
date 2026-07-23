@@ -36,3 +36,11 @@ Un forfait **eSIM Japon 7 jours** convient aux city-trips, vacances d’une sema
 - [eSIM Japon pas cher](/esim-japon-pas-cher/)
 - [eSIM Japon illimitée](/esim-japon-illimitee/)
 - [eSIM Japon](/esim-japon/)
+
+## Pages proches à consulter
+
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Japon illimitée : forfaits data illimitée et fair use](/esim-japon-illimitee/)
+- [eSIM Japon pas cher : meilleurs prix et forfaits économiques](/esim-japon-pas-cher/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)

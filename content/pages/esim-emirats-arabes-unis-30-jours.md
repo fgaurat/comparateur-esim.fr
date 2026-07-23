@@ -37,3 +37,11 @@ Une **eSIM Émirats arabes unis 30 jours** est adaptée aux voyages longs, nomad
 - [eSIM Émirats arabes unis illimitée](/esim-emirats-arabes-unis-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Émirats arabes unis 7 jours : forfaits pour une semaine](/esim-emirats-arabes-unis-7-jours/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)

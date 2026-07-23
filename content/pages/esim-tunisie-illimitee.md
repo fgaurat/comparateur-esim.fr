@@ -36,3 +36,11 @@ Une **eSIM Tunisie illimitée** est pertinente si vous utilisez beaucoup de data
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Émirats arabes unis illimitée : forfaits data illimitée et fair use](/esim-emirats-arabes-unis-illimitee/)
+- [eSIM Tunisie 30 jours : forfaits long séjour](/esim-tunisie-30-jours/)
+- [eSIM Turquie illimitée : forfaits data illimitée et fair use](/esim-turquie-illimitee/)
+- [eSIM Suisse illimitée : forfaits data illimitée et fair use](/esim-suisse-illimitee/)

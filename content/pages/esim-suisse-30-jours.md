@@ -37,3 +37,11 @@ Une **eSIM Suisse 30 jours** est adaptée aux voyages longs, nomades digitaux, r
 - [eSIM Suisse illimitée](/esim-suisse-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [eSIM 10 Go](/esim-10-go/)
+
+## Pages proches à consulter
+
+- [eSIM Chine 30 jours : forfaits long séjour](/esim-chine-30-jours/)
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Australie 30 jours : forfaits long séjour](/esim-australie-30-jours/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)

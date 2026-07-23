@@ -51,3 +51,11 @@ Un comparatif eSIM utile doit aller au-delà du prix affiché. Les critères SEO
 - [🇨🇳 eSIM Chine pas cher](/esim-chine-pas-cher/) · [illimitée](/esim-chine-illimitee/) · [7 jours](/esim-chine-7-jours/) · [30 jours](/esim-chine-30-jours/)
 - [🇦🇺 eSIM Australie pas cher](/esim-australie-pas-cher/) · [illimitée](/esim-australie-illimitee/) · [7 jours](/esim-australie-7-jours/) · [30 jours](/esim-australie-30-jours/)
 - [🇲🇽 eSIM Mexique pas cher](/esim-mexique-pas-cher/) · [illimitée](/esim-mexique-illimitee/) · [7 jours](/esim-mexique-7-jours/) · [30 jours](/esim-mexique-30-jours/)
+
+## Pages proches à consulter
+
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
+- [Meilleure eSIM : comparatif 2026 des fournisseurs eSIM](/meilleure-esim/)
+- [eSIM pas cher : trouver le meilleur prix sans sacrifier la couverture](/esim-pas-cher/)
+- [Forfait eSIM voyage : local, régional ou mondial ?](/forfait-esim-voyage/)
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)

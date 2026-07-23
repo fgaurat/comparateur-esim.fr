@@ -32,3 +32,11 @@ Un forfait **eSIM Europe 7 jours** convient aux city-trips, vacances d’une sem
 - [eSIM Europe pas cher](/esim-europe-pas-cher/)
 - [eSIM Europe illimitée](/esim-europe-illimitee/)
 - [eSIM Europe](/esim-europe/)
+
+## Pages proches à consulter
+
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Suisse 7 jours : forfaits pour une semaine](/esim-suisse-7-jours/)
+- [eSIM Chine 7 jours : forfaits pour une semaine](/esim-chine-7-jours/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)

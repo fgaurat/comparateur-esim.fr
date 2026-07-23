@@ -36,3 +36,11 @@ Une **eSIM Canada illimitée** est pertinente si vous utilisez beaucoup de data 
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Canada 30 jours : forfaits long séjour](/esim-canada-30-jours/)
+- [eSIM Canada 7 jours : forfaits pour une semaine](/esim-canada-7-jours/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)
+- [eSIM Suisse illimitée : forfaits data illimitée et fair use](/esim-suisse-illimitee/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)

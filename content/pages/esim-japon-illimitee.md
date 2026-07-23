@@ -36,3 +36,11 @@ Une **eSIM Japon illimitée** est pertinente si vous utilisez beaucoup de data :
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 - [Meilleure eSIM](/meilleure-esim/)
+
+## Pages proches à consulter
+
+- [eSIM Japon 30 jours : forfaits long séjour](/esim-japon-30-jours/)
+- [eSIM Japon 7 jours : forfaits pour une semaine](/esim-japon-7-jours/)
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
+- [eSIM Japon pas cher : meilleurs prix et forfaits économiques](/esim-japon-pas-cher/)
+- [eSIM Chine illimitée : forfaits data illimitée et fair use](/esim-chine-illimitee/)

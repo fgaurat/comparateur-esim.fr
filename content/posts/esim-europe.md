@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Saily**, mais le prix le
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM États-Unis : comparatif USA, data et forfaits 5G](/esim-etats-unis/)
+- [eSIM Suisse : comparatif Genève, Zurich, Lausanne](/esim-suisse/)
+- [eSIM Europe pas cher : meilleurs prix et forfaits économiques](/esim-europe-pas-cher/)
+- [eSIM Turquie 30 jours : forfaits long séjour](/esim-turquie-30-jours/)
+- [eSIM Europe illimitée : forfaits data illimitée et fair use](/esim-europe-illimitee/)

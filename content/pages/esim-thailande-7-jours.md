@@ -36,3 +36,11 @@ Un forfait **eSIM Thaïlande 7 jours** convient aux city-trips, vacances d’une
 - [eSIM Thaïlande pas cher](/esim-thailande-pas-cher/)
 - [eSIM Thaïlande illimitée](/esim-thailande-illimitee/)
 - [eSIM Thaïlande](/esim-thailande/)
+
+## Pages proches à consulter
+
+- [eSIM Thaïlande 30 jours : forfaits long séjour](/esim-thailande-30-jours/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM Thaïlande pas cher : meilleurs prix et forfaits économiques](/esim-thailande-pas-cher/)
+- [eSIM Thaïlande illimitée : forfaits data illimitée et fair use](/esim-thailande-illimitee/)
+- [eSIM Indonésie 7 jours : forfaits pour une semaine](/esim-indonesie-7-jours/)

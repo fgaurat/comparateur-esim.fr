@@ -50,3 +50,10 @@ Le meilleur choix observé pour cette destination est **Saily**, mais le prix le
 - [eSIM illimitée](/esim-illimitee/)
 - [Forfait eSIM voyage](/forfait-esim-voyage/)
 
+## Pages proches à consulter
+
+- [eSIM Europe : comparatif multi-pays et forfaits régionaux](/esim-europe/)
+- [eSIM États-Unis 7 jours : forfaits pour une semaine](/esim-etats-unis-7-jours/)
+- [eSIM États-Unis pas cher : meilleurs prix et forfaits économiques](/esim-etats-unis-pas-cher/)
+- [eSIM États-Unis 30 jours : forfaits long séjour](/esim-etats-unis-30-jours/)
+- [eSIM illimitée : quand choisir la data illimitée en voyage ?](/esim-illimitee/)
