@@ -17,7 +17,23 @@
         "guide-esim": 1004,
         "mentions-legales": 1005,
         "plan-du-site": 1006,
-        "politique-de-confidentialite": 1007
+        "politique-de-confidentialite": 1007,
+        "airalo-avis": 1008,
+        "airalo-vs-saily": 1009,
+        "comparatif-esim": 1010,
+        "esim-1-go": 1011,
+        "esim-10-go": 1012,
+        "esim-5-go": 1013,
+        "esim-gratuite": 1014,
+        "esim-illimitee": 1015,
+        "esim-internationale": 1016,
+        "esim-iphone": 1017,
+        "esim-pas-cher": 1018,
+        "esim-samsung": 1019,
+        "forfait-esim-voyage": 1020,
+        "holafly-avis": 1021,
+        "meilleure-esim": 1022,
+        "saily-avis": 1023
     },
     "categories": {
         "destination-esim": 2000

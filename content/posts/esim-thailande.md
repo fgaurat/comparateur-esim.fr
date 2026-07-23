@@ -42,3 +42,11 @@ Le meilleur choix observé pour cette destination est **Airalo**, mais le prix l
 4. Conservez votre SIM française pour les appels et SMS de vérification.
 
 > Données consolidées depuis des pages publiques de comparaison eSIM et pages fournisseurs. Les prix peuvent changer : vérifiez toujours le tarif final avant achat.
+## À lire aussi
+
+- [Meilleure eSIM : guide de choix](/meilleure-esim/)
+- [Comparatif eSIM complet](/comparatif-esim/)
+- [eSIM pas cher](/esim-pas-cher/)
+- [eSIM illimitée](/esim-illimitee/)
+- [Forfait eSIM voyage](/forfait-esim-voyage/)
+
