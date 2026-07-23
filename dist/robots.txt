@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comparateur-esim.fr/sitemap.xml

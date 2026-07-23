@@ -1,0 +1,462 @@
+[
+  {
+    "slug": "esim-maroc",
+    "name": "Maroc",
+    "flag": "🇲🇦",
+    "region": "Afrique du Nord",
+    "count": 179,
+    "from": "0,69 €",
+    "hero": "Rabat, Casablanca, Marrakech, Fès, Tanger",
+    "best": "GigSky",
+    "offers": [
+      {
+        "provider": "GigSky",
+        "plan": "Cruise + Europe — 100 Mo — 7 jours",
+        "data": "100 Mo",
+        "duration": "7j",
+        "price": "Gratuit",
+        "network": "5G",
+        "badge": "Essai gratuit"
+      },
+      {
+        "provider": "eSIM4Travel",
+        "plan": "Global 72 — 1GB/7Days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "0,69 $US",
+        "network": "5G",
+        "badge": "Meilleur prix"
+      },
+      {
+        "provider": "eSIM4Travel",
+        "plan": "Morocco (Orange) — 1GB/7Days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "2,91 $US",
+        "network": "4G",
+        "badge": "Orange"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Choukran — 1 GB",
+        "data": "1 Go",
+        "duration": "3j",
+        "price": "5,50 €",
+        "network": "LTE",
+        "badge": "Local"
+      },
+      {
+        "provider": "Saily",
+        "plan": "Morocco 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "6,99 $US",
+        "network": "4G/5G",
+        "badge": "App simple"
+      },
+      {
+        "provider": "GigSky",
+        "plan": "Morocco — Illimité — 1 jour",
+        "data": "Illimité",
+        "duration": "1j",
+        "price": "6,99 €",
+        "network": "5G",
+        "badge": "Illimité"
+      }
+    ],
+    "tips": [
+      "Privilégiez 3 à 5 Go pour Marrakech/Casablanca avec Wi‑Fi hôtel.",
+      "Pour Atlas ou désert, prenez 10 Go+ ou illimité pour cartes/GPS.",
+      "Gardez la SIM française active pour les SMS bancaires."
+    ]
+  },
+  {
+    "slug": "esim-japon",
+    "name": "Japon",
+    "flag": "🇯🇵",
+    "region": "Asie de l’Est",
+    "count": 220,
+    "from": "0,69 €",
+    "hero": "Tokyo, Osaka, Kyoto, Nara, Hokkaido",
+    "best": "GigSky",
+    "offers": [
+      {
+        "provider": "GigSky",
+        "plan": "Japan — 100 Mo — 7 jours",
+        "data": "100 Mo",
+        "duration": "7j",
+        "price": "Gratuit",
+        "network": "5G",
+        "badge": "Essai gratuit"
+      },
+      {
+        "provider": "eSIM4Travel",
+        "plan": "Global 72 — 1GB/7Days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "0,69 $US",
+        "network": "5G",
+        "badge": "Meilleur prix"
+      },
+      {
+        "provider": "eSIM4Travel",
+        "plan": "Japan (Softbank, KDDI) — 1GB/7Days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "0,77 $US",
+        "network": "5G",
+        "badge": "Local"
+      },
+      {
+        "provider": "GigSky",
+        "plan": "Japan — 1 Go — 7 jours",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "2,99 €",
+        "network": "5G",
+        "badge": "Simple"
+      },
+      {
+        "provider": "Saily",
+        "plan": "Japan UNLIMITED 5 days",
+        "data": "Illimité",
+        "duration": "5j",
+        "price": "18,99 €",
+        "network": "5G",
+        "badge": "Illimité"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Moshi Moshi — Unlimited",
+        "data": "Illimité",
+        "duration": "5j",
+        "price": "17,50 €",
+        "network": "4G/5G",
+        "badge": "Populaire"
+      }
+    ],
+    "tips": [
+      "NTT DoCoMo, KDDI et SoftBank offrent une excellente couverture urbaine.",
+      "1 Go/jour suffit pour GPS, traduction et messagerie.",
+      "Installez l’eSIM avant le départ : métro et gares nécessitent vite internet."
+    ]
+  },
+  {
+    "slug": "esim-thailande",
+    "name": "Thaïlande",
+    "flag": "🇹🇭",
+    "region": "Asie du Sud-Est",
+    "count": 180,
+    "from": "1,00 €",
+    "hero": "Bangkok, Phuket, Chiang Mai, Koh Samui",
+    "best": "Airalo",
+    "offers": [
+      {
+        "provider": "Airalo",
+        "plan": "Thailand 1 GB",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 4,50 €",
+        "network": "5G",
+        "badge": "Court séjour"
+      },
+      {
+        "provider": "Saily",
+        "plan": "Thailand 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 3,99 $US",
+        "network": "4G/5G",
+        "badge": "App facile"
+      },
+      {
+        "provider": "Nomad",
+        "plan": "Thailand Regular",
+        "data": "3 Go",
+        "duration": "30j",
+        "price": "≈ 8 €",
+        "network": "4G/5G",
+        "badge": "30 jours"
+      },
+      {
+        "provider": "Holafly",
+        "plan": "Thaïlande illimité",
+        "data": "Illimité",
+        "duration": "5-30j",
+        "price": "Dès 19 €",
+        "network": "4G/5G",
+        "badge": "Grosse data"
+      }
+    ],
+    "tips": [
+      "Pour un circuit îles + villes, vérifiez explicitement le réseau 5G/4G inclus.",
+      "L’illimité est utile si partage de connexion ou vidéo.",
+      "Achetez avant l’atterrissage à Bangkok/Phuket."
+    ]
+  },
+  {
+    "slug": "esim-etats-unis",
+    "name": "États-Unis",
+    "flag": "🇺🇸",
+    "region": "Amérique du Nord",
+    "count": 200,
+    "from": "3,99 €",
+    "hero": "New York, Miami, Los Angeles, San Francisco",
+    "best": "Saily",
+    "offers": [
+      {
+        "provider": "Saily",
+        "plan": "United States 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "Dès 3,99 $US",
+        "network": "4G/5G",
+        "badge": "Prix d’appel"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Change — 1 GB",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 4,50 €",
+        "network": "LTE/5G",
+        "badge": "Populaire"
+      },
+      {
+        "provider": "Ubigi",
+        "plan": "USA 3 GB",
+        "data": "3 Go",
+        "duration": "30j",
+        "price": "≈ 8 €",
+        "network": "5G",
+        "badge": "30 jours"
+      },
+      {
+        "provider": "Holafly",
+        "plan": "USA illimité",
+        "data": "Illimité",
+        "duration": "5-90j",
+        "price": "Dès 19 €",
+        "network": "4G/5G",
+        "badge": "Illimité"
+      }
+    ],
+    "tips": [
+      "Pour road-trip, privilégiez couverture nationale plutôt que prix seul.",
+      "Vérifiez hotspot si vous travaillez depuis laptop.",
+      "Gardez votre SIM FR pour authentification bancaire."
+    ]
+  },
+  {
+    "slug": "esim-canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "region": "Amérique du Nord",
+    "count": 150,
+    "from": "5,29 €",
+    "hero": "Montréal, Toronto, Vancouver, Québec",
+    "best": "Saily",
+    "offers": [
+      {
+        "provider": "Saily",
+        "plan": "Canada 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "Dès 5,29 $US",
+        "network": "4G/5G",
+        "badge": "Simple"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Tuque Mobile — 1 GB",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 5,50 €",
+        "network": "LTE/5G",
+        "badge": "Local"
+      },
+      {
+        "provider": "Nomad",
+        "plan": "Canada 5 GB",
+        "data": "5 Go",
+        "duration": "30j",
+        "price": "≈ 14 €",
+        "network": "4G/5G",
+        "badge": "Bon volume"
+      },
+      {
+        "provider": "GigSky",
+        "plan": "North America",
+        "data": "3 Go",
+        "duration": "15j",
+        "price": "≈ 12 €",
+        "network": "5G",
+        "badge": "Multi-pays"
+      }
+    ],
+    "tips": [
+      "Pour zones rurales, couverture opérateur > prix au Go.",
+      "5 Go suffisent pour une semaine touristique avec Wi‑Fi hôtel.",
+      "Préférez régional Amérique du Nord si USA + Canada."
+    ]
+  },
+  {
+    "slug": "esim-tunisie",
+    "name": "Tunisie",
+    "flag": "🇹🇳",
+    "region": "Afrique du Nord",
+    "count": 120,
+    "from": "3,99 €",
+    "hero": "Tunis, Djerba, Hammamet, Sousse",
+    "best": "Saily",
+    "offers": [
+      {
+        "provider": "Saily",
+        "plan": "Tunisia 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "Dès 3,99 $US",
+        "network": "4G",
+        "badge": "Prix d’appel"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Tunisia 1 GB",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 4,50 €",
+        "network": "LTE",
+        "badge": "Court séjour"
+      },
+      {
+        "provider": "GigSky",
+        "plan": "Middle East/North Africa",
+        "data": "3 Go",
+        "duration": "15j",
+        "price": "≈ 12 €",
+        "network": "4G/5G",
+        "badge": "Régional"
+      },
+      {
+        "provider": "Holafly",
+        "plan": "Tunisie illimité",
+        "data": "Illimité",
+        "duration": "5-30j",
+        "price": "Dès 19 €",
+        "network": "4G",
+        "badge": "Illimité"
+      }
+    ],
+    "tips": [
+      "Pour hôtel + navigation, 3 Go suffisent souvent.",
+      "Pour Djerba ou itinéraire désert, sécurisez plus de data.",
+      "Activez avant départ pour éviter les comptoirs à l’arrivée."
+    ]
+  },
+  {
+    "slug": "esim-suisse",
+    "name": "Suisse",
+    "flag": "🇨🇭",
+    "region": "Europe de l’Ouest",
+    "count": 140,
+    "from": "3,99 €",
+    "hero": "Genève, Zurich, Lausanne, Interlaken",
+    "best": "Saily",
+    "offers": [
+      {
+        "provider": "Saily",
+        "plan": "Switzerland 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "Dès 3,99 $US",
+        "network": "4G/5G",
+        "badge": "Prix"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Pilatus — 1 GB",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "≈ 4,50 €",
+        "network": "5G",
+        "badge": "Local"
+      },
+      {
+        "provider": "Ubigi",
+        "plan": "Europe 3 GB",
+        "data": "3 Go",
+        "duration": "30j",
+        "price": "≈ 8 €",
+        "network": "5G",
+        "badge": "Europe"
+      },
+      {
+        "provider": "Nomad",
+        "plan": "Switzerland 10 GB",
+        "data": "10 Go",
+        "duration": "30j",
+        "price": "≈ 18 €",
+        "network": "5G",
+        "badge": "Confort"
+      }
+    ],
+    "tips": [
+      "La Suisse est souvent hors roaming UE : vérifiez votre forfait français.",
+      "Pour train + cartes, 1 à 3 Go suffisent pour week-end.",
+      "Régional Europe utile si Suisse + Italie/France."
+    ]
+  },
+  {
+    "slug": "esim-europe",
+    "name": "Europe",
+    "flag": "🇪🇺",
+    "region": "Région",
+    "count": 300,
+    "from": "3,99 €",
+    "hero": "35+ pays selon fournisseur",
+    "best": "Saily",
+    "offers": [
+      {
+        "provider": "Saily",
+        "plan": "Europe 1GB 7 days",
+        "data": "1 Go",
+        "duration": "7j",
+        "price": "Dès 3,99 $US",
+        "network": "4G/5G",
+        "badge": "Multi-pays"
+      },
+      {
+        "provider": "Airalo",
+        "plan": "Eurolink 3 GB",
+        "data": "3 Go",
+        "duration": "30j",
+        "price": "≈ 12 €",
+        "network": "5G",
+        "badge": "Populaire"
+      },
+      {
+        "provider": "Ubigi",
+        "plan": "Europe 10 GB",
+        "data": "10 Go",
+        "duration": "30j",
+        "price": "≈ 19 €",
+        "network": "5G",
+        "badge": "Bon €/Go"
+      },
+      {
+        "provider": "Holafly",
+        "plan": "Europe illimité",
+        "data": "Illimité",
+        "duration": "5-90j",
+        "price": "Dès 19 €",
+        "network": "4G/5G",
+        "badge": "Illimité"
+      }
+    ],
+    "tips": [
+      "Idéal pour itinéraires multi-pays : une eSIM au lieu de plusieurs profils.",
+      "Vérifiez la liste pays : Suisse/Turquie ne sont pas toujours incluses.",
+      "Hotspot parfois limité sur les forfaits illimités."
+    ]
+  }
+]

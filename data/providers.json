@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Saily",
+    "rating": "4.7/5",
+    "strength": "Application très simple, prix d’appel bas, marque Nord Security",
+    "bestFor": "Voyageurs qui veulent une activation sans friction"
+  },
+  {
+    "name": "Airalo",
+    "rating": "Très populaire",
+    "strength": "Catalogue massif, offres locales et régionales",
+    "bestFor": "Comparer beaucoup de destinations rapidement"
+  },
+  {
+    "name": "GigSky",
+    "rating": "Couverture large",
+    "strength": "Essais gratuits sur certaines destinations, forfaits 5G/illimités",
+    "bestFor": "Tester une eSIM ou couvrir plusieurs pays"
+  },
+  {
+    "name": "eSIM4Travel",
+    "rating": "Prix agressifs",
+    "strength": "Souvent très bas sur 1 Go/7 jours",
+    "bestFor": "Chercher le prix au Go minimal"
+  },
+  {
+    "name": "Holafly",
+    "rating": "Illimité",
+    "strength": "Forfaits data illimitée faciles à comprendre",
+    "bestFor": "Gros consommateurs et partage ponctuel"
+  },
+  {
+    "name": "Ubigi",
+    "rating": "30 jours",
+    "strength": "Bonnes offres 3-10 Go, expérience stable",
+    "bestFor": "Télétravail léger / moyen séjour"
+  }
+]
